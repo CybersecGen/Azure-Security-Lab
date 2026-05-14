@@ -4,7 +4,7 @@ Hands-on Azure security projects focused on real-world cloud defence, identity p
 
 ---
 
-# Lab Objectives
+## Lab Objectives
 
 - Build practical Azure security experience
 - Document real-world security configurations
@@ -13,7 +13,7 @@ Hands-on Azure security projects focused on real-world cloud defence, identity p
 
 ---
 
-# Lab Projects
+## Lab Projects
 
 1. Secure Azure Identity
 2. Mini SOC with Microsoft Sentinel
@@ -23,7 +23,7 @@ Hands-on Azure security projects focused on real-world cloud defence, identity p
 
 ---
 
-# Technologies Used
+## Technologies Used
 
 - Microsoft Azure
 - Microsoft Entra ID
@@ -37,6 +37,6 @@ Hands-on Azure security projects focused on real-world cloud defence, identity p
 
 ---
 
-# Goal
+## Goal
 
 This repository documents my journey building practical Azure security skills through hands-on labs, attack simulations, monitoring, and cloud security operations.

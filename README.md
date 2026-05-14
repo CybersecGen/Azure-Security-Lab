@@ -1,4 +1,4 @@
-# Azure Security Lab
+# Azure Security Lab <img src="https://img.shields.io/badge/Status-In%20Development-orange" />
 
 Hands-on Azure security projects focused on real-world cloud defence, identity protection, monitoring, and incident response. This lab is built to strengthen practical skills for the AZ-500 certification and demonstrate job-ready Azure security experience.
 

@@ -15,11 +15,12 @@ Hands-on Azure security projects focused on real-world cloud defence, identity p
 
 ## Lab Projects
 
-1. Secure Azure Identity
-2. Mini SOC with Microsoft Sentinel
-3. Defender for Cloud Hardening
-4. Network Security Lab
-5. Incident Response Lab
+1. Environment Setup
+2. Secure Azure Identity
+3. Mini SOC with Microsoft Sentinel
+4. Defender for Cloud Hardening
+5. Network Security Lab
+6. Incident Response Lab
 
 ---
 

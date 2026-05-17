@@ -48,7 +48,7 @@ Configure core Azure resources required for the security lab environment.
 
 ### 2. Log Analytics Workspace
 
-Deploy a Log Analytics Workspace for centralized log ingestion and retention.
+Deploy a Log Analytics Workspace for centralised log ingestion and retention.
 
 ![Log Analytics](screenshots/02-log-analytics.png)
 

@@ -50,13 +50,13 @@ Configure core Azure resources required for the security lab environment.
 
 Deploy a Log Analytics Workspace for centralised log ingestion and retention.
 
-![Log Analytics](screenshots/)
+![Log Analytics](screenshots/02-log-analytics.png)
 
 ### 3. Microsoft Sentinel Enablement
 
 Enable Microsoft Sentinel for SIEM-based monitoring and detection.
 
-![Sentinel Enabled](screenshots/)
+![Sentinel Enabled](screenshots/03-sentinel-enabled.png)
 
 ### 4. Data Connector Integration
 

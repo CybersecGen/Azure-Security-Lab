@@ -85,7 +85,7 @@ Run KQL queries to confirm log ingestion and visibility.
 
 ---
 
-## Outcome
+## Outcome.
 
 This environment provides a centralised Azure security monitoring platform capable of supporting:
 

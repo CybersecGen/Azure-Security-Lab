@@ -81,11 +81,6 @@ Enable Windows auditing policies for security event generation.
 
 Run KQL queries to confirm log ingestion and visibility.
 
-```
-SecurityEvent
-| take 10
-```
-
 ![KQL Validation](screenshots/07-kql-query.png)
 
 ---

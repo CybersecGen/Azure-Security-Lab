@@ -1,15 +1,13 @@
 # Securing Azure Identity Environment
 
-## Problem
+## Objective
 
-## Azure Services Used
-
-## Threat / Risk Addressed
+Implement Zero Trust identity controls in Azure using microsoft Entra ID security features to reduce identity-based attacks surface and enforce least prvilege access.
 
 ## Implementation (Security Controls)
 
-## How I Validated It Worked
+## Architecture Decisions
 
-## Outcome / Impact
+## Validation
 
 ## Key Learnings

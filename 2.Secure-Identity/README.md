@@ -1,4 +1,4 @@
-# Securing Azure Identity Environment
+# Securing Azure Identity and Access
 
 ## Objective
 

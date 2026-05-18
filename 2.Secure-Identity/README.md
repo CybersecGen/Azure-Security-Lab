@@ -10,7 +10,7 @@ Implement identity and access management controls in Azure using Microsoft Entra
 
 ## RBAC Architecture Diagram
 
-![RBAC architecture](rbac-architecture-diagram.jpg)
+![RBAC architecture](screenshots/rbac-architecture-diagram.png)
 
 ## Implementation (Security Controls)
 

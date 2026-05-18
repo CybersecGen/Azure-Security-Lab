@@ -12,6 +12,8 @@ Implement identity and access management controls in Azure using Microsoft Entra
 
 ![RBAC architecture](screenshots/rbac-architecture-diagram.png)
 
+---
+
 ## Implementation (Security Controls)
 
 - Create role-aligned Microsoft Entra ID groups to enforce administrative separation and reduce excessive privilege exposure.

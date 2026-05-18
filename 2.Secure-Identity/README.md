@@ -21,7 +21,7 @@ Implement identity and access management controls in Azure using Microsoft Entra
 - Assign the Virtual Machine Contributor role to the Service Desk group to provide VM management capabilities without broader administrative permissions.
 - Use Azure Portal, PowerShell, and Azure CLI workflows to demonstrate operational flexibility across multiple administration interfaces.
 
-![Group Configuration](group-config.png)
+![Group Configuration](screenshots/group-config.png)
 
 ![PowerShell Administration](powershell-Admin.jpg)
 

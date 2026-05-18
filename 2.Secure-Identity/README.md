@@ -33,6 +33,8 @@ Implement identity and access management controls in Azure using Microsoft Entra
 
 ![RBAC Assignment](screenshots/rbac-assignment.png)
 
+![RBAC Assignment2](screenshots/rbac-assignment2.png)
+
 ---
 
 ## Architecture Decisions

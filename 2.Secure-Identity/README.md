@@ -31,7 +31,7 @@ Implement identity and access management controls in Azure using Microsoft Entra
 
 ![Azure CLI Administration2](screenshots/azure-cli2.png)
 
-![RBAC Assignment](screenshots/rbac-assignment.jpg)
+![RBAC Assignment](screenshots/rbac-assignment.png)
 
 ---
 

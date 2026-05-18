@@ -1,4 +1,4 @@
-# Securing Azure Identity and Access
+# Securing Azure Identity with RBAC
 
 ## Objective
 

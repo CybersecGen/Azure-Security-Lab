@@ -25,6 +25,8 @@ Implement identity and access management controls in Azure using Microsoft Entra
 
 ![PowerShell Administration](powershell-Admin.jpg)
 
+![PowerShell Administration](powershell-Admins.jpg)
+
 ![Azure CLI Administration](azure-cli-Administration.jpg)
 
 ![RBAC Assignment](rbac-assignment.jpg)

@@ -1,7 +1,6 @@
 # Azure Security Lab 
 
---- 
-
+<br>
 <img src="https://img.shields.io/badge/Status-In%20Development-orange" />
 
 ### Date: 
